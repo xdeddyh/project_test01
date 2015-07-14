@@ -7,5 +7,8 @@
         Dim strVara As String
 
         strVara = "akan dicoba dimasukan ke dalam github"
+
+        ' ini adalah penambahan ke-3 dari program local asli
+        ' coba kembali
     End Sub
 End Class
