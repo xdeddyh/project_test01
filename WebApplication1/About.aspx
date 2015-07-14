@@ -14,6 +14,10 @@
         <p>        
             Use this area to provide additional information.
         </p>
+        <p>        
+            Ini adalah code yang dibuat dan disimpan dengan github</p>
+        <p>        
+            dengan penambahan yang akan kita tambahkan</p>
 
         <p>        
             Use this area to provide additional information.
