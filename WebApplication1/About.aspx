@@ -17,7 +17,10 @@
         <p>        
             Ini adalah code yang dibuat dan disimpan dengan github</p>
         <p>        
-            dengan penambahan yang akan kita tambahkan</p>
+            dengan penambahan yang akan kita tambahkan<br />
+            akan kita tambahkan kembali, semoga kita bisa menjadi luar biasa</p>
+        <p>        
+            penambahan data ke-2</p>
 
         <p>        
             Use this area to provide additional information.
