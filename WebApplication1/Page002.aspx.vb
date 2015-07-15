@@ -13,6 +13,9 @@
         Dim strVar As String
         strVar = "ok ini dari aplikasi aslinya"
 
+        'akan dilihat apakah master
+        'mendownload semua filenya
+
     End Sub
 
 End Class
